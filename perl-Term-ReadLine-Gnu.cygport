@@ -1,0 +1,10 @@
+CPAN_AUTHOR=hayashi
+inherit perl
+
+NAME="perl-Term-ReadLine-Gnu"
+VERSION=1.20
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="GNU readline backend for Term::ReadLine"
+DESCRIPTION="Term::ReadLine::Gnu is an implementation of the interface to the
+GNU Readline Library, as a backend for Term::ReadLine."
